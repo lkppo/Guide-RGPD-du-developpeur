@@ -4,7 +4,7 @@
 
 ## Choix méthodologiques
 
-* **Mettez la protection de la vie privée au cœur de vos développements** en adoptant une méthodologie de [Privacy By Design](https://edpb.europa.eu/our-work-tools/public-consultations-art-704/2019/guidelines-42019-article-25-data-protection-design_en).
+* **Mettez la protection de la vie privée au cœur de vos développements** en adoptant une méthodologie de [Privacy By Design](https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-42019-article-25-data-protection-design-and_en).
 
 * Si vous utilisez des méthodes agiles pour vos développements, pensez à **intégrer la sécurité au cœur de votre processus**. L’ANSSI a rendu disponible un guide [« sécurité & agilité numériques »](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf) qui indique comment conduire vos développements dans le cadre d’une méthode agile tout en prenant en compte les aspects sécurité. N’hésitez pas à vous en inspirer.
 
